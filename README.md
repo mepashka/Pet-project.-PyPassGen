@@ -8,7 +8,7 @@ PyPassGen - это простой проект на языке Python, кото�
 2. Клонируйте репозиторий проекта:
 
    ```
-   git clone https://github.com/your-username/PyPassGen.git
+   git clone https://github.com/mepashka/PyPassGen.git
    ```
 
 3. Перейдите в директорию проекта:
